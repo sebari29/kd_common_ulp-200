@@ -1,0 +1,146 @@
+
+/// @file   func_port.h
+/// @date   2012/02/14
+/// @author jinhwa Lee
+/// @brief  GPIO 관련 파일
+
+
+
+#ifndef ___FUNC_PORT_H___
+#define ___FUNC_PORT_H___
+
+#include "dev_port.h"
+
+#define KEY_PORT  __KEY_PORT 
+//#define KEY_BACK_LIGHT __KEY_BACK_LIGHT 
+
+#define KEY_OUT       __KEY_PORT
+#define KEY_IN        __KEY_PORT
+#define KEY_DIR       __DIR_KEY_PORT
+
+#define DR_M_OPEN   __DR_M_OPEN 
+#define CAM_PWR_ON  __CAM_PWR_ON 
+
+#define nMUX_EN __nMUX_EN 
+#define MUX_CH1A_SEL1 __MUX_CH1A_SEL1 
+#define MUX_CH1A_SEL2 __MUX_CH1A_SEL2 
+#define MUX_CH1A_SEL3 __MUX_CH1A_SEL3 
+#define MUX_CH1B_SEL1 __MUX_CH1B_SEL1 
+#define MUX_CH1B_SEL2 __MUX_CH1B_SEL2 
+#define MUX_CH1B_SEL3 __MUX_CH1B_SEL3 
+#define MUX_CH2A_SEL1 __MUX_CH2A_SEL1 
+#define MUX_CH2A_SEL2 __MUX_CH2A_SEL2 
+#define MUX_CH2A_SEL3 __MUX_CH2A_SEL3 
+#define MUX_CH2B_SEL1 __MUX_CH2B_SEL1 
+#define MUX_CH2B_SEL2 __MUX_CH2B_SEL2 
+#define MUX_CH2B_SEL3 __MUX_CH2B_SEL3 
+
+//#define nFIRE   __nFIRE 
+#define RF_INT  __RF_INT 
+
+#define CS_TX __CS_TX 
+#define CS_RX __CS_RX 
+
+#define RS485_GUARD_TX __RS485_GUARD_TX 
+#define RS485_GUARD_RX __RS485_GUARD_RX 
+#define RS485_GUARD_CNTR __RS485_GUARD_CNTR 
+
+#define I2C_DATA __I2C_DATA 
+#define I2C_CLK __I2C_CLK 
+
+#define BEEP __BEEP 
+
+#define RS485_HOUSE_TX __RS485_HOUSE_TX 
+#define RS485_HOUSE_RX __RS485_HOUSE_RX 
+#define RS485_HOUSE_CNTR __RS485_HOUSE_CNTR 
+
+#define EN_MC __EN_MC 
+#define nMUTE_SPK __nMUTE_SPK 
+
+#define HOUSE_CALL1 __HOUSE_CALL1 
+#define HOUSE_CALL2 __HOUSE_CALL2 
+#define SUB_CALL1 __SUB_CALL1 
+#define SUB_CALL2 __SUB_CALL2 
+#define GUARD_CALL __MASTER_CALL1 
+#define MASTER_CALL2 __MASTER_CALL2 
+
+#define VIDEO_SEL1 __VIDEO_SEL1
+#define VIDEO_SEL2 __VIDEO_SEL2
+#define VIDEO_SEL3 __VIDEO_SEL3
+
+#define DIPSW_ADC1 __DIPSW_ADC1 
+
+//////////////// Direction Direction 
+
+#define DIR_FND_SEG __DIR_FND_SEG 
+#define DIR_FND_COM_CTRL1 __DIR_FND_COM_CTRL1 
+#define DIR_FND_COM_CTRL2 __DIR_FND_COM_CTRL2 
+#define DIR_FND_COM_CTRL3 __DIR_FND_COM_CTRL3 
+#define DIR_FND_COM_CTRL4 __DIR_FND_COM_CTRL4 
+
+#define DIR_KEY_PORT __DIR_KEY_PORT 
+#define DIR_KEY_BACK_LIGHT __DIR_KEY_BACK_LIGHT 
+
+#define DIR_DR_M_OPEN __DIR_DR_M_OPEN 
+#define DIR_CAM_PWR_ON __DIR_CAM_PWR_ON 
+
+#define DIR_nMUX_EN __DIR_nMUX_EN 
+///////////////////////////////////////////////
+#define DIR_MUX_CH1A_SEL1 __DIR_MUX_CH1A_SEL1 
+#define DIR_MUX_CH1A_SEL2 __DIR_MUX_CH1A_SEL2 
+#define DIR_MUX_CH1A_SEL3 __DIR_MUX_CH1A_SEL3 
+
+#define DIR_MUX_CH1B_SEL1 __DIR_MUX_CH1B_SEL1 
+#define DIR_MUX_CH1B_SEL2 __DIR_MUX_CH1B_SEL2 
+#define DIR_MUX_CH1B_SEL3 __DIR_MUX_CH1B_SEL3 
+///////////////////////////////////////////////
+#define DIR_MUX_CH2A_SEL1 __DIR_MUX_CH2A_SEL1 
+#define DIR_MUX_CH2A_SEL2 __DIR_MUX_CH2A_SEL2 
+#define DIR_MUX_CH2A_SEL3 __DIR_MUX_CH2A_SEL3 
+
+#define DIR_MUX_CH2B_SEL1 __DIR_MUX_CH2B_SEL1 
+#define DIR_MUX_CH2B_SEL2 __DIR_MUX_CH2B_SEL2 
+#define DIR_MUX_CH2B_SEL3 __DIR_MUX_CH2B_SEL3 
+//////////////////////////////////////////////
+//#define DIR_nFIRE __DIR_nFIRE 
+#define DIR_RF_INT __DIR_RF_INT 
+
+#define DIR_CS_TX __DIR_CS_TX 
+#define DIR_CS_RX __DIR_CS_RX 
+
+#define DIR_RS485_GUARD_TX __DIR_RS485_GUARD_TX 
+#define DIR_RS485_GUARD_RX __DIR_RS485_GUARD_RX 
+#define DIR_RS485_GUARD_CNTR __DIR_RS485_GUARD_CNTR 
+
+#define DIR_I2C_DATA __DIR_I2C_DATA 
+#define DIR_I2C_CLK __DIR_I2C_CLK 
+
+#define DIR_BEEP __DIR_BEEP 
+
+#define DIR_RS485_HOUSE_TX __DIR_RS485_HOUSE_TX 
+#define DIR_RS485_HOUSE_RX __DIR_RS485_HOUSE_RX 
+#define DIR_RS485_HOUSE_CNTR __DIR_RS485_HOUSE_CNTR 
+
+#define DIR_EN_MC __DIR_EN_MC 
+#define DIR_nMUTE_SPK __DIR_nMUTE_SPK 
+
+#define DIR_HOUSE_CALL1 __DIR_HOUSE_CALL1 
+#define DIR_HOUSE_CALL2 __DIR_HOUSE_CALL2 
+#define DIR_SUB_CALL1 __DIR_SUB_CALL1 
+#define DIR_SUB_CALL2 __DIR_SUB_CALL2 
+#define DIR_MASTER_CALL1 __DIR_MASTER_CALL1 
+#define DIR_MASTER_CALL2 __DIR_MASTER_CALL2 
+
+#define DIR_VIDEO_SEL1 __DIR_VIDEO_SEL1 
+#define DIR_VIDEO_SEL2 __DIR_VIDEO_SEL2 
+#define DIR_VIDEO_SEL3 __DIR_VIDEO_SEL3 
+
+#define DIR_DIPSW_ADC1 __DIR_DIPSW_ADC1 
+#define DIR_DIPSW_ADC2 __DIR_DIPSW_ADC2 
+#define DIR_DIPSW_ADC3 __DIR_DIPSW_ADC3 
+#define DIR_DIPSW_ADC4 __DIR_DIPSW_ADC4
+
+void InitializePort(void);
+
+#endif  // #ifndef ___FUNC_PORT_H___
+

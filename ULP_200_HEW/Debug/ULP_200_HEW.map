@@ -1,0 +1,1710 @@
+##########################################
+# (1) LINK INFORMATION                   #
+##########################################
+c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\bin\ln30.exe @D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\ULP_200_HEW.m16cl
+
+# ID CODE DATA
+.ID  "#FFFFFFFFFFFFFF"
+
+# OPTION FUNCTION SELECT REGISTER
+.OFSREG  FEH
+
+# LINK FILE INFORMATION
+dev_cpu (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_cpu.r30)
+	Dec 21 16:42:35 2015
+
+dev_iic (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_iic.r30)
+	Dec 21 16:42:37 2015
+
+dev_int (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_int.r30)
+	Dec 21 16:42:38 2015
+
+dev_port (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_port.r30)
+	Dec 21 16:42:39 2015
+
+dev_pwm (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_pwm.r30)
+	Dec 21 16:42:40 2015
+
+dev_timer (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_timer.r30)
+	Dec 21 16:42:42 2015
+
+dev_uart (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_uart.r30)
+	Dec 21 16:42:43 2015
+
+func_call_manager (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager.r30)
+	Dec 21 19:09:38 2015
+
+func_call_manager_resource (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_resource.r30)
+	Dec 21 19:09:40 2015
+
+func_call_manager_slave (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_slave.r30)
+	Dec 21 19:09:41 2015
+
+func_call_manager_sublobby (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_sublobby.r30)
+	Dec 21 19:09:43 2015
+
+func_console (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_console.r30)
+	Dec 21 19:09:44 2015
+
+func_cpu (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_cpu.r30)
+	Dec 21 19:09:46 2015
+
+func_etc (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_etc.r30)
+	Dec 21 19:09:47 2015
+
+func_factory (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_factory.r30)
+	Dec 21 19:09:49 2015
+
+func_fnd (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_fnd.r30)
+	Dec 21 19:09:50 2015
+
+func_iic (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_iic.r30)
+	Dec 21 19:09:52 2015
+
+func_int (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_int.r30)
+	Dec 21 19:09:53 2015
+
+func_key (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_key.r30)
+	Dec 21 19:29:17 2015
+
+func_message (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_message.r30)
+	Dec 21 19:09:56 2015
+
+func_port (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_port.r30)
+	Dec 21 19:09:57 2015
+
+func_protocol (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_protocol.r30)
+	Dec 21 19:09:59 2015
+
+func_sound (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_sound.r30)
+	Dec 21 19:10:00 2015
+
+func_timeout (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timeout.r30)
+	Dec 21 19:10:02 2015
+
+func_timer (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timer.r30)
+	Dec 21 19:10:03 2015
+
+func_uart (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_uart.r30)
+	Dec 21 19:10:05 2015
+
+fvector (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\fvector.r30)
+	Dec 21 16:42:27 2015
+
+heap (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\heap.r30)
+	Dec 21 16:42:28 2015
+
+initsct (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\initsct.r30)
+	Dec 21 16:42:30 2015
+
+interrupt_vector (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\interrupt_vector.r30)
+	Dec 21 19:10:06 2015
+
+intprg (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\intprg.r30)
+	Aug 29 10:58:49 2014
+
+Lib_I2C (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_I2C.r30)
+	Dec 21 19:09:33 2015
+
+Lib_ProtocolAnam (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolAnam.r30)
+	Dec 21 19:09:35 2015
+
+Lib_ProtocolKD (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolKD.r30)
+	Dec 21 19:09:36 2015
+
+main (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\main.r30)
+	Dec 21 19:33:28 2015
+
+resetprg (D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\resetprg.r30)
+	Aug 29 10:58:49 2014
+
+memcmp (c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib)
+	Jan  6 15:04:56 2010
+
+memcpy (c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib)
+	Jan  6 15:04:56 2010
+
+
+##########################################
+# (2) SECTION INFORMATION                #
+##########################################
+# SECTION                        ATR TYPE    START  LENGTH ALIGN MODULENAME
+data_SE                          REL DATA    000400 000000 2     initsct
+bss_SE                           REL DATA    000400 000000 2     initsct
+data_SO                          REL DATA    000400 000000       initsct
+bss_SO                           REL DATA    000400 000000       initsct
+data_NE                          REL DATA    000400 00031E 2     func_console
+                                 REL DATA    00071E 000052 2     func_factory
+                                 REL DATA    000770 00001A 2     func_fnd
+                                 REL DATA    00078A 000052 2     func_key
+                                 REL DATA    0007DC 000002 2     func_timer
+                                 REL DATA    0007DE 000000 2     initsct
+                                 REL DATA    0007DE 000004 2     main
+bss_NE                           REL DATA    0007E2 000024 2     func_call_manager
+                                 REL DATA    000806 00000C 2     func_call_manager_resource
+                                 REL DATA    000812 0000F6 2     func_console
+                                 REL DATA    000908 000002 2     func_etc
+                                 REL DATA    00090A 000022 2     func_fnd
+                                 REL DATA    00092C 000010 2     func_key
+                                 REL DATA    00093C 0000E6 2     func_message
+                                 REL DATA    000A22 000008 2     func_sound
+                                 REL DATA    000A2A 00003C 2     func_timeout
+                                 REL DATA    000A66 000078 2     func_timer
+                                 REL DATA    000ADE 000000 2     initsct
+                                 REL DATA    000ADE 000014 2     interrupt_vector
+                                 REL DATA    000AF2 0000BA 2     Lib_ProtocolKD
+                                 REL DATA    000BAC 000016 2     main
+data_NO                          REL DATA    000BC2 000001       func_call_manager_slave
+                                 REL DATA    000BC3 00031A       func_console
+                                 REL DATA    000EDD 000002       func_etc
+                                 REL DATA    000EDF 000005       func_factory
+                                 REL DATA    000EE4 000001       func_fnd
+                                 REL DATA    000EE5 000002       func_sound
+                                 REL DATA    000EE7 000000       initsct
+                                 REL DATA    000EE7 000002       interrupt_vector
+bss_NO                           REL DATA    000EE9 000005       func_console
+                                 REL DATA    000EEE 000006       func_etc
+                                 REL DATA    000EF4 000003       func_factory
+                                 REL DATA    000EF7 000002       func_fnd
+                                 REL DATA    000EF9 000001       func_key
+                                 REL DATA    000EFA 000002       func_protocol
+                                 REL DATA    000EFC 000000       initsct
+                                 REL DATA    000EFC 000015       interrupt_vector
+                                 REL DATA    000F11 000043       Lib_ProtocolAnam
+                                 REL DATA    000F54 000051       Lib_ProtocolKD
+stack                            REL DATA    000FA5 000200       resetprg
+istack                           REL DATA    0011A5 000200       resetprg
+data_SEI                         REL ROMDATA 004000 000000       initsct
+data_SOI                         REL ROMDATA 004000 000000       initsct
+data_NEI                         REL ROMDATA 004000 00031E       func_console
+                                 REL ROMDATA 00431E 000052       func_factory
+                                 REL ROMDATA 004370 00001A       func_fnd
+                                 REL ROMDATA 00438A 000052       func_key
+                                 REL ROMDATA 0043DC 000002       func_timer
+                                 REL ROMDATA 0043DE 000000       initsct
+                                 REL ROMDATA 0043DE 000004       main
+data_NOI                         REL ROMDATA 0043E2 000001       func_call_manager_slave
+                                 REL ROMDATA 0043E3 00031A       func_console
+                                 REL ROMDATA 0046FD 000002       func_etc
+                                 REL ROMDATA 0046FF 000005       func_factory
+                                 REL ROMDATA 004704 000001       func_fnd
+                                 REL ROMDATA 004705 000002       func_sound
+                                 REL ROMDATA 004707 000000       initsct
+                                 REL ROMDATA 004707 000002       interrupt_vector
+program                          REL CODE    00470A 00006E 2     dev_cpu
+                                 REL CODE    004778 000103 2     dev_iic
+                                 REL CODE    00487C 000015 2     dev_int
+                                 REL CODE    004892 00004C 2     dev_pwm
+                                 REL CODE    0048DE 000044 2     dev_timer
+                                 REL CODE    004922 0001BB 2     dev_uart
+                                 REL CODE    004ADE 001F13 2     func_call_manager
+                                 REL CODE    0069F2 00092A 2     func_call_manager_resource
+                                 REL CODE    00731C 000972 2     func_call_manager_slave
+                                 REL CODE    007C8E 00080F 2     func_call_manager_sublobby
+                                 REL CODE    00849E 001171 2     func_console
+                                 REL CODE    009610 00001B 2     func_cpu
+                                 REL CODE    00962C 000434 2     func_etc
+                                 REL CODE    009A60 000DD5 2     func_factory
+                                 REL CODE    00A836 000588 2     func_fnd
+                                 REL CODE    00ADBE 0002F5 2     func_iic
+                                 REL CODE    00B0B4 000005 2     func_int
+                                 REL CODE    00B0BA 000F41 2     func_key
+                                 REL CODE    00BFFC 0002B3 2     func_message
+                                 REL CODE    00C2B0 000147 2     func_port
+                                 REL CODE    00C3F8 000421 2     func_protocol
+                                 REL CODE    00C81A 0005E6 2     func_sound
+                                 REL CODE    00CE00 000170 2     func_timeout
+                                 REL CODE    00CF70 00012D 2     func_timer
+                                 REL CODE    00D09E 000029 2     func_uart
+                                 REL CODE    00D0C8 000005 2     fvector
+                                 REL CODE    00D0CE 00046F 2     interrupt_vector
+                                 REL CODE    00D53E 00004D 2     intprg
+                                 REL CODE    00D58C 00049D 2     Lib_I2C
+                                 REL CODE    00DA2A 0004C8 2     Lib_ProtocolAnam
+                                 REL CODE    00DEF2 00138C 2     Lib_ProtocolKD
+                                 REL CODE    00F27E 0001C4 2     main
+                                 REL CODE    00F442 000058 2     memcmp
+                                 REL CODE    00F49A 000053 2     memcpy
+interrupt                        REL CODE    00F4EE 00011D 2     initsct
+                                 REL CODE    00F60C 000037 2     resetprg
+vector                           REL ROMDATA 00FED8 000100       interrupt_vector
+rom_FE                           REL ROMDATA 010000 0004A0 2     func_sound
+rom_FO                           REL ROMDATA 0104A0 00000F       Lib_ProtocolAnam
+fvector                          ABS ROMDATA 00FFD8 000028       fvector
+# Total -------------------------------------------------------------------
+                                     DATA           000FA5(0004005) Byte(s)
+                                     ROMDATA        000CE0(0003296) Byte(s)
+                                     CODE           00AF38(0044856) Byte(s)
+
+##########################################
+# VARIABLE VECTOR TABLE INFORMATION      #
+##########################################
+No.  Address               No.  Address               No.  Address
+0    __brk                 1    __flash_memory_ready  2    __dummy_int           
+3    __dummy_int           4    __dummy_int           5    __dummy_int           
+6    __int4                7    __timer_rc            8    __timer_rd0           
+9    __timer_rd1           10   __timer_re            11   __uart2_transmit      
+12   __uart2_receive       13   __input_key           14   __ad_converter        
+15   __dummy_int           16   __rf_compare1         17   __uart0_transmit      
+18   __uart0_receive       19   __uart1_transmit      20   __uart1_receive       
+21   __int2                22   __timer_ra            23   __dummy_int           
+24   __timer_rb            25   __int1                26   __int3                
+27   __timer_rf            28   __rf_compare0         29   __int0                
+30   __uart2_bcnic         31   __rf_capture          32   __dummy_int           
+33   __dummy_int           34   __dummy_int           35   __dummy_int           
+36   __dummy_int           37   __dummy_int           38   __dummy_int           
+39   __dummy_int           40   __dummy_int           41   __dummy_int           
+42   __dummy_int           43   __timer_rg            44   __dummy_int           
+45   __dummy_int           46   __dummy_int           47   __dummy_int           
+48   __dummy_int           49   __dummy_int           50   __comparator_a1       
+51   __comparator_a2       52   __dummy_int           53   __dummy_int           
+54   __dummy_int           55   __dummy_int           56   __dummy_int           
+57   __dummy_int           58   __dummy_int           59   __dummy_int           
+60   __dummy_int           61   __dummy_int           62   __dummy_int           
+63   __dummy_int           
+
+##########################################
+# (3) GLOBAL LABEL INFORMATION           #
+##########################################
+$Anam_AnamIdToHd   00db56  $Anam_AssignReso   006af6  $Anam_AssignReso   006e76
+$Anam_DongToAnam   00dac4  $Anam_HdIdToAnam   00dae8  $Anam_TransmitDa   00debe
+$Anam_TransmitPr   00dbd0  $Anam_TransmitPr   00dc64  $AssignResourceC   006a5e
+$AssignResourceL   006cfe  $BootInfoOutput    00f2c4  $CallManagerRepe   00614e
+$CallManagerRepe   0073bc  $CallManagerRepe   004ade  $CallManagerRepe   005ce4
+$CallManagerRepe   007fac  $CallManagerRepe   005a4c  $CallManagerRepe   007c8e
+$CallManagerRepe   004e96  $CallManagerRepe   0055de  $CallManagerRepe   0051ea
+$CallManagerRepe   0082ca  $CallManagerRequ   0064fc  $CallManagerRequ   00757e
+$CallManagerRequ   00771a  $CallManagerRequ   007632  $CallManagerRequ   0078b8
+$CallManagerRequ   00795e  $CallManagerRequ   007a52  $CallManagerRequ   0083ce
+$CallTest_RL_CAL   007b9a  $CancelTimeOut     00ceb2  $ConsoleDataDisp   00885e
+$Dec2HalfHex       00998e  $Dec2Hex           0098b2  $DequeCircularBu   00c0bc
+$EEPROM_ReadBloc   00d91a  $EEPROM_WriteBlc   00d8dc  $EEPROM_WriteByt   00d866
+$EnqueCircularBu   00c064  $ExeSwRoutine      00b21c  $ExeSwRoutine_Fa   009bbc
+$HalfHex2Dec       009928  $I2C_ReadRawData   00d7d8  $I2C_WRITE         00d610
+$I2C_WriteRawDat   00d78a  $InitializeCircu   00bffc  $IsCallBusy        006040
+$IsEmptyCircular   00c050  $IsFullCircularB   00c026  $IsTimeOut         00cee6
+$IsTimeOutUse      00cf1e  $KDP_HdIdToKdID    00e80e  $KDP_KdIdToHdId    00e85a
+$KDP_ReceiveProt   00e89a  $KDP_TransmitPro   00ed6c  $Kd_BufferFullEr   00e802
+$Kd_CheckSumErro   00e7f6  $Kd_IDError        00e7ea  $Kd_ProtocolForm   00e6c2
+$Kd_ReceiveData    00dfce  $Kd_ReceiveSucce   00e7ce  $Kd_SetupChannel   00df30
+$Kd_TransmitData   00e3b8  $Kd_TransmitData   00e3e8  $KeyFunction_Fnd   009cc8
+$KeyFunction_RxU   00a5de  $KeyFunction_fac   009f00  $KeyMainFunction   00bef0
+$KeyNumFunction    00bca8  $PasswordHomeCom   00aff0  $PasswordReadHom   00b05a
+$PasswordWriteHo   00af42  $PrintEachSettin   008a18  $RFCARD_factory    00a7a4
+$ReturnResourceC   006b94  $ReturnResourceL   006c1a  $ScanAllHouses     008bfa
+$SelectCallMux     007246  $SelectMuxChanne   007120  $SendMsgRFCard     0096ae
+$SendMsgReceiveP   00c7b6  $SendMsgReceiveP   00c7e8  $SettingData       008d9e
+$SettingDataConv   008d3a  $SettingValueHex   00a8c4  $SettingValueHex   00ab4a
+$SettingValueHex   00aaee  $SettingValueHex   00ac1c  $SettingValueHex   00ac6c
+$SettingValueHex   00ab78  $SettingValueHex   00ad32  $SettingValueHex   00a930
+$SettingValueHex   00a974  $SettingValueHex   00a9e2  $SettingValueHex   00ad78
+$SettingValueHex   00ab9e  $SetupTimeOut      00ce7c  $SetupTimeSchedu   00d000
+$SpeakerOnOff      00cdd4  $SpecialVal_Read   00d9fe  $SpecialVal_Read   00d996
+$SpecialVal_Writ   00d9ce  $SpecialVal_Writ   00d972  $StartTimeSchedu   00d068
+$TransmitGuard     00c3f8  $TransmitHouseLo   00c414  $TransmitProtoco   00c6d6
+$TransmitProtoco   00c664  $TransmitProtoco   00c48a  $TransmitProtoco   00c42e
+$TransmitProtoco   00c5ac  $TransmitProtoco   00c552  $TransmitProtoco   008be0
+$TransmitProtoco   007b80  $UartRx_factory    00a4ac  $__I2C_P2S         0047b0
+$__Kd_Transmit48   00e53a  $__delay_ms        00470a  $bGetTXConsoleDa   00880a
+$bPrintDec         0084c8  $bPrintDec_0isNu   008542  $bPrintHex         008628
+$bPrintHex16       0085fc  $bPrintHex_NonSp   008686  $bPrintHex_Proto   0086d4
+$bPrintPtocotolC   009384  $bPrintString      0087b4  $bPutTXConsoleDa   0087e4
+$bReceiveMessage   00c1f4  $bSendMessageBox   00c164  $delay_ms          009610
+$rd_RFCard         00aee0  $sound_effect      00cdb0  $sound_freq_play   00ccaa
+$sound_play        00cc82  $wr_RFCard         00aec0  _Anam_DataBitToB   00da2a
+_Anam_DataByteTo   00da84  _Anam_ReceivePro   00dd70  _Anam_ReceivePro   00dc8e
+_Anam_ReceivePro   00dd34  _Anam_RxDataCntT   0104a0  _Anam_TimerInter   00dee8
+_Anam_TransmitPr   00ddf6  _CallManagerTime   00745a  _ConsoleSetNum     000eea
+_ConsoleState      000ee9  _ConsoleTimeOutR   0091a8  _Console_AudioPa   000d86
+_Console_AudioPa   000dab  _Console_AudioPa   000d17  _Console_AudioPa   000d3c
+_Console_AudioPa   000d61  _Console_BAR1      000ecf  _Console_BAR8      000ec6
+_Console_BeepSou   000dd0  _Console_C         0004f6  _Console_CC        000eba
+_Console_Data_Er   000e92  _Console_Dong      000c14  _Console_Exit      00049c
+_Console_Factory   000be8  _Console_False     000e1a  _Console_GL_CBUS   0004fc
+_Console_GL_DOPE   00050a  _Console_GL_OFF_   000518  _Console_GL_ON_H   000526
+_Console_GR_CALL   000534  _Console_GR_CALL   000542  _Console_GR_CALL   000550
+_Console_GR_CBUS   00055e  _Console_GR_HOLD   00057a  _Console_GR_HOLD   00056c
+_Console_GR_INT_   000588  _Console_GR_LBUS   000596  _Console_GR_OFF_   0005a4
+_Console_GR_ON_H   0005b2  _Console_GuardID   000c5e  _Console_Guard_R   000e37
+_Console_Guard_T   000e42  _Console_HooPrin   000ead  _Console_HouseSc   000bff
+_Console_HouseSc   000446  _Console_House_R   000e21  _Console_House_T   000e2c
+_Console_INTC_ON   0005c0  _Console_Input     0004ac  _Console_JJ        0004f8
+_Console_LG_CALL   0005ce  _Console_LG_CALL   0005dc  _Console_LG_CALL   0005ea
+_Console_LG_ON_H   0005f8  _Console_LR_CALL   000606  _Console_LR_CALL   000614
+_Console_LR_CALL   000622  _Console_LR_ECHO   0006e6  _Console_LR_ON_H   000630
+_Console_Lobby     000c39  _Console_Lobby_R   000e4d  _Console_Lobby_T   000e58
+_Console_MainMen   000bc3  _Console_Managem   00042e  _Console_Manager   000476
+_Console_Manager   000df5  _Console_MaxHo     000ca8  _Console_NULL8     000ebd
+_Console_O         000ed7  _Console_Opentim   000ccd  _Console_PROTOCO   000710
+_Console_Packet    000412  _Console_Passwor   000c83  _Console_PleaseD   0004ce
+_Console_Protoco   000cf2  _Console_RG_CALL   00063e  _Console_RG_CALL   00064c
+_Console_RG_CALL   00065a  _Console_RG_CBUS   000668  _Console_RG_EMER   0006f4
+_Console_RG_EMER   000702  _Console_RG_OFF_   000676  _Console_RG_ON_H   000684
+_Console_RL_CALL   0006d8  _Console_RL_CBUS   000692  _Console_RL_DOPE   0006a0
+_Console_RL_OFF_   0006ae  _Console_RL_ON_H   0006bc  _Console_TimeOut   000e63
+_Console_True      0004a6  _Console_ULP200    000400  _Console_X         000ed2
+_Console____ON_H   0006ca  _Cookoo            010144  _CreateTimeOut     00ce32
+_EnterDisplay      008874  _FactoryTestMode   00f27e  _FurElize          010000
+_GoTimeScheduler   00cf9c  _I2C_ACK           00d722  _I2C_ACK_DETECT    00d6e6
+_I2C_NACK          00d756  _I2C_READ          00d68e  _I2C_START         00d58c
+_I2C_STOP          00d5ce  _InitalizeFactor   009a60  _InitalizeRFCard   0096fc
+_InitializeCallM   00731c  _InitializeClock   009626  _InitializeConso   00849e
+_InitializeFacto   00ae3a  _InitializeFnd     00a836  _InitializeInt     00b0b4
+_InitializeKeySc   00b0ba  _InitializeLobby   00adbe  _InitializeMessa   00c11c
+_InitializePort    00c2b0  _InitializeResou   0069f2  _InitializeSound   00c81a
+_InitializeTimeO   00ce00  _InitializeTimeS   00cf70  _InitializeTimer   00d098
+_InitializeUart0   00d09e  _InitializeUart1   00d0aa  _InitializeUart1   00d0a4
+_InitializeUart1   00d0b0  _InitializeUart2   00d0bc  _InitializeUart2   00d0b6
+_InitializeUart2   00d0c2  _InitializeWdt     009620  _InterruptDispla   00a878
+_InterruptSoundM   00cd24  _IsFactoryMode     00a7fc  _IsFactoryMode2    00a800
+_IsSpeakerOnOff    00cdee  _KDP_LobbySetupC   00f176  _Kd_Initialize     00def2
+_Kd_TimerInterru   00e684  _KeyCompareFunct   00b936  _KeyDataClear      00b2ac
+_KeyDataClear_No   00b2c8  _KeyLockOff        00bee8  _KeyLockOn         00bee2
+_KeyMainFunction   00be56  _KeyMainFunction   00be02  _KeyMainFunction   00bebe
+_KeyScan_Factory   009aa2  _KeySharpFunctio   00ba58  _KyungDong         0103a4
+_LobbyHandleErro   00adec  _LobbyHandleRero   00ae52  _MsgDoorOpenfunc   00962c
+_OngDalSaem        0101a4  _PasswordCompare   00b284  _PasswordHomeAll   00aef8
+_PrintMainPage     00888e  _PrintSettingMen   0088f2  _ProtocolSpecSet   009a22
+_ResetMessageBox   00c160  _RxReceiveData     000ade  _SaveData          0008f0
+_SelectCameraMic   0070a8  _SelectRelay       0070d4  _SelectVideoMux    006fec
+_SettingValueDis   00b2d8  _SettingValueHex   00aa38  _SettingValueHex   00ab1c
+_SettingValueHex   00aa50  _SettingValueHex   00aa96  _SettingValueHex   00ab14
+_SettingValueHex   00aa68  _SettingValueHex   00abfc  _SettingValueHex   00ac14
+_SettingValueHex   00aad6  _SettingValueHex   00ab32  _SettingValueSav   00b4aa
+_SettingValueSav   00b484  _Siren             010364  _StopTimeSchedul   00d03c
+_Tel               010314  _ThreadAnalysisP   006966  _ThreadConsole     0091ec
+_ThreadDoorOpen    00964a  _ThreadFactoryMo   00a804  _ThreadKeyScan     00b0c2
+_ThreadRFCard      009704  _ThreadTimeOut     00cf32  _ThreeBear         010250
+_TransmitGuardCn   00c408  _TransmitGuardCn   00c40e  _TransmitHouseLo   00c422
+_TransmitHouseLo   00c428  ___ACK             00484c  ___ACKDETECT       00482a
+___I2C_S2P         0047ee  ___I2C_START       004778  ___I2C_STOP        004794
+___InitializeClo   00474c  ___InitializeInt   00487c  ___InitializePWM   004892
+___InitializeTim   0048de  ___InitializeUar   004922  ___InitializeUar   004996
+___InitializeUar   00495a  ___InitializeUar   0049d2  ___InitializeUar   004a52
+___InitializeUar   004a0a  ___InitializeUar   004a9a  ___NACK            004864
+___wdt_init        004732  __ad_converter     00d556  __brk              00d53e
+__comparator_a1    00d580  __comparator_a2    00d586  __dummy_int        00d0c8
+__flash_memory_r   00d544  __input_key        00d550  __int0             00d56e
+__int1             00d50a  __int2             00d562  __int3             00d462
+__int4             00d54a  __istack_top       0013a5  __rf_capture       00d57a
+__rf_compare0      00d568  __rf_compare1      00d55c  __stack_top        0011a5
+__timer_ra         00d494  __timer_rb         00d4f0  __timer_rc         00d4fa
+__timer_rd0        00d520  __timer_rd1        00d526  __timer_re         00d52c
+__timer_rf         00d532  __timer_rg         00d538  __uart0_receive    00d0ee
+__uart0_transmit   00d0ce  __uart1_receive    00d192  __uart1_transmit   00d514
+__uart2_bcnic      00d574  __uart2_receive    00d296  __uart2_transmit   00d51a
+_bReleaseCnt       00079c  _bReleaseCnt_Fac   000730  _bStartTXConsol    008822
+_bVersionPrint     0085c6  _bpreKeyVal        00079a  _bpreKeyVal_Fact   00072e
+_busy_tone         00c858  _chime_bell        00cade  _elize_melody      00cbaa
+_error_tone        00c910  _exit              00f63e  _gDoorOpenDelay    000908
+_gDoorOpenMode     000edd  _gFwVersion        0007de  _gLobbyHandle      000bac
+_gMsgBox           00093c  _gTestIOReg        0007e0  _gTimeOutTable     000a2a
+_gUart1TimeOutCn   000efa  _gUart2TimeOutCn   000efb  _gbKeyMap          00078a
+_gbKeyMap_Factor   00071e  _gsTimerCnt        0007dc  _gtRXConsolBuffe   000818
+_gtTXConsolBuffe   000812  _gtTimeSceduleHa   000a66  _hConsoleTimeOut   000eeb
+_hTimeOutRFCard    000eee  _initial_tone      00ca1e  _initsct           00f4ee
+_key_tone          00c82a  _mAnamProtocol     000f11  _mCircleData       000782
+_mDisplayFnd       00090a  _mFactoryMode      000edf  _mFactoryModeTim   000ee0
+_mFndTestMode      000ee2  _mHandleTimeOutF   000ef6  _mInfoTalk         0007e2
+_mKdChannel        000af2  _mKey              00092c  _mKeyFactoryMode   000ef5
+_mKeyTimeOut       000ef9  _mLineResource     000806  _mMelodyFlg        000ee6
+_mModeCnt          000ef4  _mMuxData          00080e  _mReadDataRFCard   000eef
+_mRxDataKDP        000b70  _mStartFactoryMo   000ee1  _mTxBufferKDP      000f54
+_mWhileSound_RL_   000bc2  _main              00f332  _mbFndTable        000770
+_memcmp            00f442  _memcpy            00f49a  _mhCallTimeOut     000804
+_mlobbyTalkFlg     000ee5  _ongdalsaem_melo   00cc16  _open_tone         00ca7e
+_pbRXConsolBuffe   0008e6  _pbTXConsolBuffe   00081e  _siren_melody      00cb74
+_sound_cnt         000a26  _sound_freq_stop   00ccf4  _sound_play_16ms   000a28
+_sound_seq         000a24  _sound_type        000a22  _start             00f60c
+_success_tone      00c97e  _success_tone2     00c9ce  _tel_bell          00cb3e
+_threebear_melod   00cc4c  _waltz_melody      00cbe0  
+
+##########################################
+# (4) GLOBAL EQU SYMBOL INFORMATION      #
+##########################################
+__SB__           00000400  
+
+##########################################
+# (5) GLOBAL EQU BIT-SYMBOL INFORMATION  #
+##########################################
+
+##########################################
+# (6) LOCAL LABEL INFORMATION            #
+##########################################
+@ dev_cpu ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_cpu.r30 )
+@ dev_iic ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_iic.r30 )
+@ dev_int ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_int.r30 )
+@ dev_port ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_port.r30 )
+@ dev_pwm ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_pwm.r30 )
+@ dev_timer ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_timer.r30 )
+@ dev_uart ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_uart.r30 )
+@ func_call_manager ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager.r30 )
+@ func_call_manager_resource ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_resource.r30 )
+@ func_call_manager_slave ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_slave.r30 )
+@ func_call_manager_sublobby ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_sublobby.r30 )
+@ func_console ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_console.r30 )
+@ func_cpu ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_cpu.r30 )
+@ func_etc ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_etc.r30 )
+@ func_factory ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_factory.r30 )
+@ func_fnd ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_fnd.r30 )
+@ func_iic ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_iic.r30 )
+@ func_int ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_int.r30 )
+@ func_key ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_key.r30 )
+@ func_message ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_message.r30 )
+@ func_port ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_port.r30 )
+@ func_protocol ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_protocol.r30 )
+@ func_sound ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_sound.r30 )
+@ func_timeout ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timeout.r30 )
+@ func_timer ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timer.r30 )
+@ func_uart ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_uart.r30 )
+@ fvector ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\fvector.r30 )
+@ heap ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\heap.r30 )
+@ initsct ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\initsct.r30 )
+@ interrupt_vector ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\interrupt_vector.r30 )
+@ intprg ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\intprg.r30 )
+@ Lib_I2C ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_I2C.r30 )
+@ Lib_ProtocolAnam ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolAnam.r30 )
+@ Lib_ProtocolKD ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolKD.r30 )
+@ main ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\main.r30 )
+@ resetprg ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\resetprg.r30 )
+@ memcmp ( c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib )
+@ memcpy ( c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib )
+
+##########################################
+# (7) LOCAL EQU SYMBOL INFORMATION       #
+##########################################
+@ dev_cpu ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_cpu.r30 )
+@ dev_iic ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_iic.r30 )
+@ dev_int ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_int.r30 )
+@ dev_port ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_port.r30 )
+@ dev_pwm ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_pwm.r30 )
+@ dev_timer ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_timer.r30 )
+@ dev_uart ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_uart.r30 )
+@ func_call_manager ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager.r30 )
+@ func_call_manager_resource ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_resource.r30 )
+@ func_call_manager_slave ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_slave.r30 )
+@ func_call_manager_sublobby ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_sublobby.r30 )
+@ func_console ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_console.r30 )
+@ func_cpu ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_cpu.r30 )
+@ func_etc ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_etc.r30 )
+@ func_factory ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_factory.r30 )
+@ func_fnd ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_fnd.r30 )
+@ func_iic ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_iic.r30 )
+@ func_int ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_int.r30 )
+@ func_key ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_key.r30 )
+@ func_message ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_message.r30 )
+@ func_port ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_port.r30 )
+@ func_protocol ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_protocol.r30 )
+@ func_sound ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_sound.r30 )
+@ func_timeout ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timeout.r30 )
+@ func_timer ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timer.r30 )
+@ func_uart ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_uart.r30 )
+@ fvector ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\fvector.r30 )
+@ heap ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\heap.r30 )
+@ initsct ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\initsct.r30 )
+@ interrupt_vector ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\interrupt_vector.r30 )
+@ intprg ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\intprg.r30 )
+@ Lib_I2C ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_I2C.r30 )
+@ Lib_ProtocolAnam ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolAnam.r30 )
+@ Lib_ProtocolKD ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolKD.r30 )
+@ main ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\main.r30 )
+@ resetprg ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\resetprg.r30 )
+@ memcmp ( c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib )
+@ memcpy ( c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib )
+
+##########################################
+# (8) LOCAL EQU BIT-SYMBOL INFORMATION   #
+##########################################
+@ dev_cpu ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_cpu.r30 )
+@ dev_iic ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_iic.r30 )
+@ dev_int ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_int.r30 )
+@ dev_port ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_port.r30 )
+@ dev_pwm ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_pwm.r30 )
+@ dev_timer ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_timer.r30 )
+@ dev_uart ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\dev_uart.r30 )
+@ func_call_manager ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager.r30 )
+@ func_call_manager_resource ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_resource.r30 )
+@ func_call_manager_slave ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_slave.r30 )
+@ func_call_manager_sublobby ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_call_manager_sublobby.r30 )
+@ func_console ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_console.r30 )
+@ func_cpu ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_cpu.r30 )
+@ func_etc ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_etc.r30 )
+@ func_factory ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_factory.r30 )
+@ func_fnd ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_fnd.r30 )
+@ func_iic ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_iic.r30 )
+@ func_int ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_int.r30 )
+@ func_key ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_key.r30 )
+@ func_message ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_message.r30 )
+@ func_port ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_port.r30 )
+@ func_protocol ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_protocol.r30 )
+@ func_sound ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_sound.r30 )
+@ func_timeout ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timeout.r30 )
+@ func_timer ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_timer.r30 )
+@ func_uart ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\func_uart.r30 )
+@ fvector ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\fvector.r30 )
+@ heap ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\heap.r30 )
+@ initsct ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\initsct.r30 )
+@ interrupt_vector ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\interrupt_vector.r30 )
+@ intprg ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\intprg.r30 )
+@ Lib_I2C ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_I2C.r30 )
+@ Lib_ProtocolAnam ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolAnam.r30 )
+@ Lib_ProtocolKD ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\Lib_ProtocolKD.r30 )
+@ main ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\main.r30 )
+@ resetprg ( D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug\resetprg.r30 )
+@ memcmp ( c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib )
+@ memcpy ( c:\program files\renesas\hew\tools\renesas\nc30wa\v545r01\lib30\nc30lib.lib )
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+data_SE
+                                  00000400  00000400         0   2
+bss_SE
+                                  00000400  00000400         0   2
+data_SO
+                                  00000400  00000400         0   1
+bss_SO
+                                  00000400  00000400         0   1
+data_NE
+                                  00000400  000007e1       3e2   2
+bss_NE
+                                  000007e2  00000bc1       3e0   2
+data_NO
+                                  00000bc2  00000ee8       327   1
+bss_NO
+                                  00000ee9  00000fa4        bc   1
+stack
+                                  00000fa5  000011a4       200   1
+istack
+                                  000011a5  000013a4       200   1
+data_SEI
+                                  00004000  00004000         0   1
+data_SOI
+                                  00004000  00004000         0   1
+data_NEI
+                                  00004000  000043e1       3e2   1
+data_NOI
+                                  000043e2  00004708       327   1
+program
+                                  0000470a  0000f4ec      ade3   2
+interrupt
+                                  0000f4ee  0000f642       155   2
+vector
+                                  0000fed8  0000ffd7       100   1
+rom_FE
+                                  00010000  0001049f       4a0   2
+rom_FO
+                                  000104a0  000104ae         f   1
+fvector
+                                  0000ffd8  0000ffff        28   1
+
+*** Symbol List ***
+
+SECTION=
+FILE=                               START        END    SIZE
+  SYMBOL                            ADDR        SIZE    INFO      COUNTS  OPT
+
+SECTION=data_NE
+FILE=func_console
+                                  00000400  0000071d       31e
+  _Console_ULP200
+                                  00000400        12   data ,g         0
+  _Console_Packet
+                                  00000412        1c   data ,g         0
+  _Console_Management
+                                  0000042e        18   data ,g         0
+  _Console_HouseScan2
+                                  00000446        30   data ,g         0
+  _Console_ManagerMenu
+                                  00000476        26   data ,g         0
+  _Console_Exit
+                                  0000049c         a   data ,g         0
+  _Console_True
+                                  000004a6         6   data ,g         0
+  _Console_Input
+                                  000004ac        22   data ,g         0
+  _Console_PleaseDisable
+                                  000004ce        28   data ,g         0
+  _Console_C
+                                  000004f6         2   data ,g         0
+  _Console_JJ
+                                  000004f8         4   data ,g         0
+  _Console_GL_CBUSY
+                                  000004fc         e   data ,g         0
+  _Console_GL_DOPEN
+                                  0000050a         e   data ,g         0
+  _Console_GL_OFF_HOOK
+                                  00000518         e   data ,g         0
+  _Console_GL_ON_HOOK
+                                  00000526         e   data ,g         0
+  _Console_GR_CALL_OFF
+                                  00000534         e   data ,g         0
+  _Console_GR_CALL_OK
+                                  00000542         e   data ,g         0
+  _Console_GR_CALL_ON
+                                  00000550         e   data ,g         0
+  _Console_GR_CBUSY
+                                  0000055e         e   data ,g         0
+  _Console_GR_HOLD_ON
+                                  0000056c         e   data ,g         0
+  _Console_GR_HOLD_OFF
+                                  0000057a         e   data ,g         0
+  _Console_GR_INT_COM
+                                  00000588         e   data ,g         0
+  _Console_GR_LBUSY
+                                  00000596         e   data ,g         0
+  _Console_GR_OFF_HOOK
+                                  000005a4         e   data ,g         0
+  _Console_GR_ON_HOOK
+                                  000005b2         e   data ,g         0
+  _Console_INTC_ON_HOOK
+                                  000005c0         e   data ,g         0
+  _Console_LG_CALL_OFF
+                                  000005ce         e   data ,g         0
+  _Console_LG_CALL_OK
+                                  000005dc         e   data ,g         0
+  _Console_LG_CALL_ON
+                                  000005ea         e   data ,g         0
+  _Console_LG_ON_HOOK
+                                  000005f8         e   data ,g         0
+  _Console_LR_CALL_OFF
+                                  00000606         e   data ,g         0
+  _Console_LR_CALL_OK
+                                  00000614         e   data ,g         0
+  _Console_LR_CALL_ON
+                                  00000622         e   data ,g         0
+  _Console_LR_ON_HOOK
+                                  00000630         e   data ,g         0
+  _Console_RG_CALL_OFF
+                                  0000063e         e   data ,g         0
+  _Console_RG_CALL_OK
+                                  0000064c         e   data ,g         0
+  _Console_RG_CALL_ON
+                                  0000065a         e   data ,g         0
+  _Console_RG_CBUSY
+                                  00000668         e   data ,g         0
+  _Console_RG_OFF_HOOK
+                                  00000676         e   data ,g         0
+  _Console_RG_ON_HOOK
+                                  00000684         e   data ,g         0
+  _Console_RL_CBUSY
+                                  00000692         e   data ,g         0
+  _Console_RL_DOPEN
+                                  000006a0         e   data ,g         0
+  _Console_RL_OFF_HOOK
+                                  000006ae         e   data ,g         0
+  _Console_RL_ON_HOOK
+                                  000006bc         e   data ,g         0
+  _Console____ON_HOOK
+                                  000006ca         e   data ,g         0
+  _Console_RL_CALL_REQUEST
+                                  000006d8         e   data ,g         0
+  _Console_LR_ECHO
+                                  000006e6         e   data ,g         0
+  _Console_RG_EMER
+                                  000006f4         e   data ,g         0
+  _Console_RG_EMER_CNCL
+                                  00000702         e   data ,g         0
+  _Console_PROTOCOL_NULL
+                                  00000710         e   data ,g         0
+  __SB__
+                                  00000400         0   none ,g         0
+
+FILE=func_factory
+                                  0000071e  0000076f        52
+  _gbKeyMap_Factory
+                                  0000071e        10   data ,g         0
+  _bpreKeyVal_Factory
+                                  0000072e         2   data ,g         0
+  _bReleaseCnt_Factory
+                                  00000730        10   data ,g         0
+
+FILE=func_fnd
+                                  00000770  00000789        1a
+  _mbFndTable
+                                  00000770        12   data ,g         0
+  _mCircleData
+                                  00000782         8   data ,g         0
+
+FILE=func_key
+                                  0000078a  000007db        52
+  _gbKeyMap
+                                  0000078a        10   data ,g         0
+  _bpreKeyVal
+                                  0000079a         2   data ,g         0
+  _bReleaseCnt
+                                  0000079c        10   data ,g         0
+
+FILE=func_timer
+                                  000007dc  000007dd         2
+  _gsTimerCnt
+                                  000007dc         2   data ,g         0
+
+FILE=main
+                                  000007de  000007e1         4
+  _gFwVersion
+                                  000007de         2   data ,g         0
+  _gTestIOReg
+                                  000007e0         2   data ,g         0
+
+SECTION=bss_NE
+FILE=func_call_manager
+                                  000007e2  00000805        24
+  _mInfoTalk
+                                  000007e2        22   data ,g         0
+  _mhCallTimeOut
+                                  00000804         2   data ,g         0
+
+FILE=func_call_manager_resource
+                                  00000806  00000811         c
+  _mLineResource
+                                  00000806         8   data ,g         0
+  _mMuxData
+                                  0000080e         4   data ,g         0
+
+FILE=func_console
+                                  00000812  00000907        f6
+  _gtTXConsolBuffer
+                                  00000812         6   data ,g         0
+  _gtRXConsolBuffer
+                                  00000818         6   data ,g         0
+  _pbTXConsolBuffer
+                                  0000081e        c8   data ,g         0
+  _pbRXConsolBuffer
+                                  000008e6         a   data ,g         0
+  _SaveData
+                                  000008f0        18   data ,g         0
+
+FILE=func_etc
+                                  00000908  00000909         2
+  _gDoorOpenDelay
+                                  00000908         2   data ,g         0
+
+FILE=func_fnd
+                                  0000090a  0000092b        22
+  _mDisplayFnd
+                                  0000090a        22   data ,g         0
+
+FILE=func_key
+                                  0000092c  0000093b        10
+  _mKey
+                                  0000092c        10   data ,g         0
+
+FILE=func_message
+                                  0000093c  00000a21        e6
+  _gMsgBox
+                                  0000093c        e6   data ,g         0
+
+FILE=func_sound
+                                  00000a22  00000a29         8
+  _sound_type
+                                  00000a22         2   data ,g         0
+  _sound_seq
+                                  00000a24         2   data ,g         0
+  _sound_cnt
+                                  00000a26         2   data ,g         0
+  _sound_play_16ms
+                                  00000a28         2   data ,g         0
+
+FILE=func_timeout
+                                  00000a2a  00000a65        3c
+  _gTimeOutTable
+                                  00000a2a        3c   data ,g         0
+
+FILE=func_timer
+                                  00000a66  00000add        78
+  _gtTimeSceduleHandler
+                                  00000a66        78   data ,g         0
+
+FILE=interrupt_vector
+                                  00000ade  00000af1        14
+  _RxReceiveData
+                                  00000ade        14   data ,g         0
+
+FILE=Lib_ProtocolKD
+                                  00000af2  00000bab        ba
+  _mKdChannel
+                                  00000af2        7e   data ,g         0
+  _mRxDataKDP
+                                  00000b70        3c   data ,g         0
+
+FILE=main
+                                  00000bac  00000bc1        16
+  _gLobbyHandle
+                                  00000bac        16   data ,g         0
+
+SECTION=data_NO
+FILE=func_call_manager_slave
+                                  00000bc2  00000bc2         1
+  _mWhileSound_RL_CALL_REQUEST_flg
+                                  00000bc2         1   data ,g         0
+
+FILE=func_console
+                                  00000bc3  00000edc       31a
+  _Console_MainMenu
+                                  00000bc3        25   data ,g         0
+  _Console_Factory
+                                  00000be8        17   data ,g         0
+  _Console_HouseScan
+                                  00000bff        15   data ,g         0
+  _Console_Dong
+                                  00000c14        25   data ,g         0
+  _Console_Lobby
+                                  00000c39        25   data ,g         0
+  _Console_GuardID
+                                  00000c5e        25   data ,g         0
+  _Console_Password
+                                  00000c83        25   data ,g         0
+  _Console_MaxHo
+                                  00000ca8        25   data ,g         0
+  _Console_Opentime
+                                  00000ccd        25   data ,g         0
+  _Console_Protocol
+                                  00000cf2        25   data ,g         0
+  _Console_AudioPathHouse1
+                                  00000d17        25   data ,g         0
+  _Console_AudioPathHouse2
+                                  00000d3c        25   data ,g         0
+  _Console_AudioPathLobby1
+                                  00000d61        25   data ,g         0
+  _Console_AudioPahtLobby2
+                                  00000d86        25   data ,g         0
+  _Console_AudioPathGuard1
+                                  00000dab        25   data ,g         0
+  _Console_BeepSoundMute
+                                  00000dd0        25   data ,g         0
+  _Console_ManagerMenuSub
+                                  00000df5        25   data ,g         0
+  _Console_False
+                                  00000e1a         7   data ,g         0
+  _Console_House_RX
+                                  00000e21         b   data ,g         0
+  _Console_House_TX
+                                  00000e2c         b   data ,g         0
+  _Console_Guard_RX
+                                  00000e37         b   data ,g         0
+  _Console_Guard_TX
+                                  00000e42         b   data ,g         0
+  _Console_Lobby_RX
+                                  00000e4d         b   data ,g         0
+  _Console_Lobby_TX
+                                  00000e58         b   data ,g         0
+  _Console_TimeOutMsg
+                                  00000e63        2f   data ,g         0
+  _Console_Data_Error
+                                  00000e92        1b   data ,g         0
+  _Console_HooPrint
+                                  00000ead         d   data ,g         0
+  _Console_CC
+                                  00000eba         3   data ,g         0
+  _Console_NULL8
+                                  00000ebd         9   data ,g         0
+  _Console_BAR8
+                                  00000ec6         9   data ,g         0
+  _Console_BAR1
+                                  00000ecf         3   data ,g         0
+  _Console_X
+                                  00000ed2         5   data ,g         0
+  _Console_O
+                                  00000ed7         5   data ,g         0
+
+FILE=func_etc
+                                  00000edd  00000ede         2
+  _gDoorOpenMode
+                                  00000edd         1   data ,g         0
+
+FILE=func_factory
+                                  00000edf  00000ee3         5
+  _mFactoryMode
+                                  00000edf         1   data ,g         0
+  _mFactoryModeTimeOutCnt
+                                  00000ee0         1   data ,g         0
+  _mStartFactoryMode
+                                  00000ee1         1   data ,g         0
+  _mFndTestMode
+                                  00000ee2         1   data ,g         0
+
+FILE=func_sound
+                                  00000ee5  00000ee6         2
+  _mlobbyTalkFlg
+                                  00000ee5         1   data ,g         0
+  _mMelodyFlg
+                                  00000ee6         1   data ,g         0
+
+SECTION=bss_NO
+FILE=func_console
+                                  00000ee9  00000eed         5
+  _ConsoleState
+                                  00000ee9         1   data ,g         0
+  _ConsoleSetNum
+                                  00000eea         1   data ,g         0
+  _hConsoleTimeOut
+                                  00000eeb         1   data ,g         0
+
+FILE=func_etc
+                                  00000eee  00000ef3         6
+  _hTimeOutRFCard
+                                  00000eee         1   data ,g         0
+  _mReadDataRFCard
+                                  00000eef         5   data ,g         0
+
+FILE=func_factory
+                                  00000ef4  00000ef6         3
+  _mModeCnt
+                                  00000ef4         1   data ,g         0
+  _mKeyFactoryMode
+                                  00000ef5         1   data ,g         0
+  _mHandleTimeOutFactoryMode
+                                  00000ef6         1   data ,g         0
+
+FILE=func_key
+                                  00000ef9  00000ef9         1
+  _mKeyTimeOut
+                                  00000ef9         1   data ,g         0
+
+FILE=func_protocol
+                                  00000efa  00000efb         2
+  _gUart1TimeOutCnt
+                                  00000efa         1   data ,g         0
+  _gUart2TimeOutCnt
+                                  00000efb         1   data ,g         0
+
+FILE=Lib_ProtocolAnam
+                                  00000f11  00000f53        43
+  _mAnamProtocol
+                                  00000f11        43   data ,g         0
+
+FILE=Lib_ProtocolKD
+                                  00000f54  00000fa4        51
+  _mTxBufferKDP
+                                  00000f54        51   data ,g         0
+
+SECTION=istack
+FILE=resetprg
+                                  000011a5  000013a4       200
+  __stack_top
+                                  000011a5         0   none ,g         0
+
+SECTION=program
+FILE=D:/KD/SVN Project/SVN_Com/ULP-200/a_Trunk/program/ULP_200/ULP_200/ULP_200_HEW/src/dev_cpu
+                                  0000470a  00004777        6e
+  $__delay_ms
+                                  0000470a        28   func ,g         0
+  ___wdt_init
+                                  00004732        19   func ,g         0
+
+FILE=D:/KD/SVN Project/SVN_Com/ULP-200/a_Trunk/program/ULP_200/ULP_200/ULP_200_HEW/src/dev_iic
+                                  00004778  0000487a       103
+  ___I2C_START
+                                  00004778        1c   func ,g         0
+  ___I2C_STOP
+                                  00004794        1c   func ,g         0
+  $__I2C_P2S
+                                  000047b0        3d   func ,g         0
+  ___I2C_S2P
+                                  000047ee        3c   func ,g         0
+  ___ACKDETECT
+                                  0000482a        23   func ,g         0
+  ___ACK
+                                  0000484c        17   func ,g         0
+
+FILE=D:/KD/SVN Project/SVN_Com/ULP-200/a_Trunk/program/ULP_200/ULP_200/ULP_200_HEW/src/dev_int
+                                  0000487c  00004890        15
+  ___InitializeInt
+                                  0000487c        15   func ,g         0
+
+FILE=dev_pwm
+                                  00004892  000048dd        4c
+  ___InitializePWM
+                                  00004892        4c   func ,g         0
+
+FILE=dev_timer
+                                  000048de  00004921        44
+  ___InitializeTimer
+                                  000048de        44   func ,g         0
+
+FILE=dev_uart
+                                  00004922  00004adc       1bb
+  ___InitializeUart0_19200
+                                  00004922        38   func ,g         0
+  ___InitializeUart1_9600
+                                  0000495a        3c   func ,g         0
+  ___InitializeUart1_3906
+                                  00004996        3c   func ,g         0
+  ___InitializeUart1_Disable
+                                  000049d2        37   func ,g         0
+  ___InitializeUart2_9600
+                                  00004a0a        49   func ,g         0
+  ___InitializeUart2_3906
+                                  00004a52        48   func ,g         0
+  ___InitializeUart2_Disable
+                                  00004a9a        43   func ,g         0
+
+FILE=func_call_manager
+                                  00004ade  000069f0      1f13
+  $CallManagerRepeater_GR
+                                  00004ade       3b8   func ,g         0
+  $CallManagerRepeater_RG
+                                  00004e96       353   func ,g         0
+  $CallManagerRepeater_SLR
+                                  000051ea       3f5   func ,g         0
+  $CallManagerRepeater_SLG
+                                  000055de       46e   func ,g         0
+  $CallManagerRepeater_MLR
+                                  00005a4c       298   func ,g         0
+  $CallManagerRepeater_MLG
+                                  00005ce4       35b   func ,g         0
+  $IsCallBusy
+                                  00006040       10f   func ,g         0
+  $CallManagerRepeater
+                                  0000614e       3ad   func ,g         0
+  $CallManagerRequest
+                                  000064fc       46a   func ,g         0
+
+FILE=func_call_manager_resource
+                                  000069f2  0000731b       92a
+  _InitializeResourceCall
+                                  000069f2        6b   func ,g         0
+  $AssignResourceCall
+                                  00006a5e        99   func ,g         0
+  $Anam_AssignResourceCall
+                                  00006af6        9d   func ,g         0
+  $ReturnResourceCall
+                                  00006b94        86   func ,g         0
+  $ReturnResourceLine
+                                  00006c1a        e4   func ,g         0
+  $AssignResourceLine
+                                  00006cfe       179   func ,g         0
+  $Anam_AssignResourceLine
+                                  00006e76       176   func ,g         0
+  _SelectVideoMux
+                                  00006fec        bc   func ,g         0
+  _SelectCameraMic
+                                  000070a8        2b   func ,g         0
+  _SelectRelay
+                                  000070d4        4d   func ,g         0
+  $SelectMuxChannelDir
+                                  00007120       125   func ,g         0
+
+FILE=func_call_manager_slave
+                                  0000731c  00007c8d       972
+  _InitializeCallManager
+                                  0000731c        a0   func ,g         0
+  $CallManagerRepeaterOnHook
+                                  000073bc        9d   func ,g         0
+  _CallManagerTimeOut
+                                  0000745a       125   func ,g         0
+  $CallManagerRequest_GR_CALL_ON
+                                  0000757e        b3   func ,g         0
+  $CallManagerRequest_LR_CALL_ON
+                                  00007632        e8   func ,g         0
+  $CallManagerRequest_LG_CALL_ON
+                                  0000771a       19f   func ,g         0
+  $CallManagerRequest_RG_CALL_ON
+                                  000078b8        a5   func ,g         0
+  $CallManagerRequest_RegisterInfoTalk
+                                  0000795e        f5   func ,g         0
+  $CallManagerRequest_ReturnBusy
+                                  00007a52       12d   func ,g         0
+  $TransmitProtocol_RL_CALL_REQUEST
+                                  00007b80        1b   func ,g         0
+  $CallTest_RL_CALL_REQUEST
+                                  00007b9a        f4   func ,g         0
+
+FILE=func_call_manager_sublobby
+                                  00007c8e  0000849c       80f
+  $CallManagerRepeater_MLR_SubLobby
+                                  00007c8e       31d   func ,g         0
+  $CallManagerRepeater_MLG_SubLobby
+                                  00007fac       31e   func ,g         0
+  $CallManagerRepeater_SubLobby
+                                  000082ca       105   func ,g         0
+  $CallManagerRequest_SubLobby
+                                  000083ce        cf   func ,g         0
+
+FILE=func_console
+                                  0000849e  0000960e      1171
+  _InitializeConsole
+                                  0000849e        2a   func ,g         0
+  $bPrintDec
+                                  000084c8        79   func ,g         0
+  $bPrintDec_0isNull
+                                  00008542        84   func ,g         0
+  _bVersionPrint
+                                  000085c6        37   func ,g         0
+  $bPrintHex16
+                                  000085fc        2c   func ,g         0
+  $bPrintHex
+                                  00008628        5d   func ,g         0
+  $bPrintHex_NonSpace
+                                  00008686        4e   func ,g         0
+  $bPrintHex_Protocol
+                                  000086d4        e1   func ,g         0
+  $bPrintString
+                                  000087b4        30   func ,g         0
+  $bPutTXConsoleData
+                                  000087e4        25   func ,g         0
+  $bGetTXConsoleData
+                                  0000880a        19   func ,g         0
+  _bStartTXConsol
+                                  00008822        3c   func ,g         0
+  $ConsoleDataDisplay
+                                  0000885e        15   func ,g         0
+  _EnterDisplay
+                                  00008874        1a   func ,g         0
+  _PrintMainPage
+                                  0000888e        65   func ,g         0
+  _PrintSettingMenu
+                                  000088f2       125   func ,g         0
+  $PrintEachSettingMenu
+                                  00008a18       1c8   func ,g         0
+  $TransmitProtocol_LR_ECHO
+                                  00008be0        1b   func ,g         0
+  $ScanAllHouses
+                                  00008bfa       13f   func ,g         0
+  $SettingDataConvertDec
+                                  00008d3a        65   func ,g         0
+  $SettingData
+                                  00008d9e       409   func ,g         0
+  _ConsoleTimeOutReset
+                                  000091a8        45   func ,g         0
+  _ThreadConsole
+                                  000091ec       197   func ,g         0
+
+FILE=func_cpu
+                                  00009610  0000962a        1b
+  $delay_ms
+                                  00009610         f   func ,g         0
+  _InitializeWdt
+                                  00009620         6   func ,g         0
+
+FILE=func_etc
+                                  0000962c  00009a5f       434
+  _MsgDoorOpenfunc
+                                  0000962c        1e   func ,g         0
+  _ThreadDoorOpen
+                                  0000964a        64   func ,g         0
+  $SendMsgRFCard
+                                  000096ae        4e   func ,g         0
+  _InitalizeRFCard
+                                  000096fc         8   func ,g         0
+  _ThreadRFCard
+                                  00009704       1ae   func ,g         0
+  $Dec2Hex
+                                  000098b2        76   func ,g         0
+  $HalfHex2Dec
+                                  00009928        65   func ,g         0
+  $Dec2HalfHex
+                                  0000998e        95   func ,g         0
+  _ProtocolSpecSetting
+                                  00009a22        3e   func ,g         0
+
+FILE=func_factory
+                                  00009a60  0000a834       dd5
+  _InitalizeFactoryMode
+                                  00009a60        42   func ,g         0
+  _KeyScan_Factory
+                                  00009aa2       119   func ,g         0
+  $ExeSwRoutine_Factory
+                                  00009bbc       10c   func ,g         0
+  $KeyFunction_Fnd_factory
+                                  00009cc8       238   func ,g         0
+  $KeyFunction_factory
+                                  00009f00       5ac   func ,g         0
+  $UartRx_factory
+                                  0000a4ac       133   func ,g         0
+  $KeyFunction_RxUartSlaveLobby_factory
+                                  0000a5de       1c5   func ,g         0
+  $RFCARD_factory
+                                  0000a7a4        58   func ,g         0
+  _IsFactoryMode
+                                  0000a7fc         5   func ,g         0
+  _IsFactoryMode2
+                                  0000a800         4   func ,g         0
+  _ThreadFactoryMode
+                                  0000a804        31   func ,g         0
+
+FILE=func_fnd
+                                  0000a836  0000adbd       588
+  _InitializeFnd
+                                  0000a836        41   func ,g         0
+  _InterruptDisplayFnd
+                                  0000a878        4c   func ,g         0
+  $SettingValueHexFnd
+                                  0000a8c4        6d   func ,g         0
+  $SettingValueHexFnd_Page1
+                                  0000a930        43   func ,g         0
+  $SettingValueHexFnd_Page1_NULL
+                                  0000a974        6f   func ,g         0
+  $SettingValueHexFnd_Page1_NULL_Cnt
+                                  0000a9e2        55   func ,g         0
+  _SettingValueHexFnd_CALL
+                                  0000aa38        19   func ,g         0
+  _SettingValueHexFnd_CODE
+                                  0000aa50        18   func ,g         0
+  _SettingValueHexFnd_FindEndPage
+                                  0000aa68        2e   func ,g         0
+  _SettingValueHexFnd_Circle
+                                  0000aa96        40   func ,g         0
+  _SettingValueHexFnd_Password
+                                  0000aad6        18   func ,g         0
+  $SettingValueHexFnd_Error
+                                  0000aaee        25   func ,g         0
+  _SettingValueHexFnd_ErrorClear
+                                  0000ab14         8   func ,g         0
+  _SettingValueHexFnd_CLEAR
+                                  0000ab1c        17   func ,g         0
+  _SettingValueHexFnd_TEST
+                                  0000ab32        18   func ,g         0
+  $SettingValueHexFnd_BAR_Shift
+                                  0000ab4a        2d   func ,g         0
+  $SettingValueHexFnd_Open
+                                  0000ab78        26   func ,g         0
+  $SettingValueHexFnd_RF
+                                  0000ab9e        5f   func ,g         0
+  _SettingValueHexFnd_House
+                                  0000abfc        18   func ,g         0
+  _SettingValueHexFnd_Number
+                                  0000ac14         7   func ,g         0
+  $SettingValueHexFnd_Factory
+                                  0000ac1c        51   func ,g         0
+  $SettingValueHexFnd_Fnd_Factory
+                                  0000ac6c        c6   func ,g         0
+  $SettingValueHexFnd_Page0_Version
+                                  0000ad32        46   func ,g         0
+  $SettingValueHexFnd_Page1_Version
+                                  0000ad78        46   func ,g         0
+
+FILE=func_iic
+                                  0000adbe  0000b0b2       2f5
+  _InitializeLobbyHandle
+                                  0000adbe        2d   func ,g         0
+  _LobbyHandleErrorRamReset
+                                  0000adec        4f   func ,g         0
+  _InitializeFactoryEEPROM
+                                  0000ae3a        18   func ,g         0
+  _LobbyHandleReroad
+                                  0000ae52        6d   func ,g         0
+  $wr_RFCard
+                                  0000aec0        20   func ,g         0
+  $rd_RFCard
+                                  0000aee0        18   func ,g         0
+  _PasswordHomeAllDel
+                                  0000aef8        4b   func ,g         0
+  $PasswordWriteHome
+                                  0000af42        ad   func ,g         0
+  $PasswordHomeCompare
+                                  0000aff0        6b   func ,g         0
+  $PasswordReadHome
+                                  0000b05a        59   func ,g         0
+
+FILE=func_int
+                                  0000b0b4  0000b0b8         5
+  _InitializeInt
+                                  0000b0b4         5   func ,g         0
+
+FILE=func_key
+                                  0000b0ba  0000bffa       f41
+  _InitializeKeyScan
+                                  0000b0ba         8   func ,g         0
+  _ThreadKeyScan
+                                  0000b0c2       15a   func ,g         0
+  $ExeSwRoutine
+                                  0000b21c        67   func ,g         0
+  _PasswordCompare
+                                  0000b284        29   func ,g         0
+  _KeyDataClear
+                                  0000b2ac        1c   func ,g         0
+  _KeyDataClear_NoDisplay
+                                  0000b2c8        10   func ,g         0
+  _SettingValueDisplay
+                                  0000b2d8       1ab   func ,g         0
+  _SettingValueSaveCheck
+                                  0000b484        27   func ,g         0
+  _SettingValueSave
+                                  0000b4aa       48b   func ,g         0
+  _KeyCompareFunction
+                                  0000b936       123   func ,g         0
+  _KeySharpFunction
+                                  0000ba58       24f   func ,g         0
+  $KeyNumFunction
+                                  0000bca8       15a   func ,g         0
+  _KeyMainFunctionMasterCallHouse
+                                  0000be02        55   func ,g         0
+  _KeyMainFunctionMasterCallGuard
+                                  0000be56        68   func ,g         0
+  _KeyMainFunctionMasterOnHook
+                                  0000bebe        24   func ,g         0
+  _KeyLockOn
+                                  0000bee2         5   func ,g         0
+  _KeyLockOff
+                                  0000bee8         9   func ,g         0
+  $KeyMainFunction
+                                  0000bef0       10b   func ,g         0
+
+FILE=func_message
+                                  0000bffc  0000c2ae       2b3
+  $InitializeCircularBuffer
+                                  0000bffc        2a   func ,g         0
+  $IsFullCircularBuffer
+                                  0000c026        2a   func ,g         0
+  $IsEmptyCircularBuffer
+                                  0000c050        14   func ,g         0
+  $EnqueCircularBuffer
+                                  0000c064        58   func ,g         0
+  $DequeCircularBuffer
+                                  0000c0bc        60   func ,g         0
+  _InitializeMessageBox
+                                  0000c11c        44   func ,g         0
+  _ResetMessageBox
+                                  0000c160         4   func ,g         0
+  $bSendMessageBox
+                                  0000c164        8f   func ,g         0
+
+FILE=func_port
+                                  0000c2b0  0000c3f6       147
+  _InitializePort
+                                  0000c2b0       147   func ,g         0
+
+FILE=func_protocol
+                                  0000c3f8  0000c818       421
+  $TransmitGuard
+                                  0000c3f8         f   func ,g         0
+  _TransmitGuardCntrRx
+                                  0000c408         6   func ,g         0
+  _TransmitGuardCntrTx
+                                  0000c40e         6   func ,g         0
+  $TransmitHouseLobby
+                                  0000c414         e   func ,g         0
+  _TransmitHouseLobbyCntrRx
+                                  0000c422         6   func ,g         0
+  _TransmitHouseLobbyCntrTx
+                                  0000c428         6   func ,g         0
+  $TransmitProtocolHouseSwitch
+                                  0000c42e        5d   func ,g         0
+  $TransmitProtocolHouse
+                                  0000c48a        c7   func ,g         0
+  $TransmitProtocolLobbySwitch
+                                  0000c552        5b   func ,g         0
+  $TransmitProtocolLobby
+                                  0000c5ac        b7   func ,g         0
+  $TransmitProtocolGuardSwitch
+                                  0000c664        72   func ,g         0
+  $TransmitProtocolGuard
+                                  0000c6d6        e0   func ,g         0
+  $SendMsgReceiveProtocol
+                                  0000c7b6        32   func ,g         0
+
+FILE=func_sound
+                                  0000c81a  0000cdff       5e6
+  _InitializeSound
+                                  0000c81a         f   func ,g         0
+  _key_tone
+                                  0000c82a        2e   func ,g         0
+  _busy_tone
+                                  0000c858        b9   func ,g         0
+  _error_tone
+                                  0000c910        6d   func ,g         0
+  _success_tone
+                                  0000c97e        50   func ,g         0
+  _success_tone2
+                                  0000c9ce        50   func ,g         0
+  _initial_tone
+                                  0000ca1e        61   func ,g         0
+  _open_tone
+                                  0000ca7e        60   func ,g         0
+  _chime_bell
+                                  0000cade        60   func ,g         0
+  _tel_bell
+                                  0000cb3e        36   func ,g         0
+  _siren_melody
+                                  0000cb74        36   func ,g         0
+  _elize_melody
+                                  0000cbaa        36   func ,g         0
+  _waltz_melody
+                                  0000cbe0        36   func ,g         0
+  _ongdalsaem_melody
+                                  0000cc16        36   func ,g         0
+  _threebear_melody
+                                  0000cc4c        36   func ,g         0
+  $sound_play
+                                  0000cc82        27   func ,g         0
+  $sound_freq_play
+                                  0000ccaa        4a   func ,g         0
+  _sound_freq_stop
+                                  0000ccf4        31   func ,g         0
+  _InterruptSoundMode
+                                  0000cd24        8b   func ,g         0
+  $sound_effect
+                                  0000cdb0        25   func ,g         0
+  $SpeakerOnOff
+                                  0000cdd4        1a   func ,g         0
+  _IsSpeakerOnOff
+                                  0000cdee        12   func ,g         0
+
+FILE=func_timeout
+                                  0000ce00  0000cf6f       170
+  _InitializeTimeOut
+                                  0000ce00        32   func ,g         0
+  _CreateTimeOut
+                                  0000ce32        49   func ,g         0
+  $SetupTimeOut
+                                  0000ce7c        37   func ,g         0
+  $CancelTimeOut
+                                  0000ceb2        34   func ,g         0
+  $IsTimeOut
+                                  0000cee6        38   func ,g         0
+  $IsTimeOutUse
+                                  0000cf1e        13   func ,g         0
+
+FILE=func_timer
+                                  0000cf70  0000d09c       12d
+  _InitializeTimeScheduler
+                                  0000cf70        2c   func ,g         0
+  _GoTimeScheduler
+                                  0000cf9c        63   func ,g         0
+  $SetupTimeScheduler
+                                  0000d000        3d   func ,g         0
+  _StopTimeScheduler
+                                  0000d03c        2c   func ,g         0
+  $StartTimeScheduler
+                                  0000d068        30   func ,g         0
+  _InitializeTimer
+                                  0000d098         5   func ,g         0
+
+FILE=func_uart
+                                  0000d09e  0000d0c6        29
+  _InitializeUart0_19200
+                                  0000d09e         5   func ,g         0
+  _InitializeUart1_9600
+                                  0000d0a4         6   func ,g         0
+  _InitializeUart1_3906
+                                  0000d0aa         6   func ,g         0
+  _InitializeUart1_Disable
+                                  0000d0b0         6   func ,g         0
+  _InitializeUart2_9600
+                                  0000d0b6         6   func ,g         0
+  _InitializeUart2_3906
+                                  0000d0bc         6   func ,g         0
+
+FILE=fvector
+                                  0000d0c8  0000d0cc         5
+  __dummy_int
+                                  0000d0c8         5   func ,g         0
+
+FILE=interrupt_vector
+                                  0000d0ce  0000d53c       46f
+  __uart0_transmit
+                                  0000d0ce        1f   func ,g         0
+  __uart0_receive
+                                  0000d0ee        a4   func ,g         0
+  __uart1_receive
+                                  0000d192       104   func ,g         0
+  __uart2_receive
+                                  0000d296       1cc   func ,g         0
+  __int3
+                                  0000d462        33   func ,g         0
+  __timer_ra
+                                  0000d494        5c   func ,g         0
+  __timer_rb
+                                  0000d4f0         9   func ,g         0
+  __timer_rc
+                                  0000d4fa        11   func ,g         0
+  __int1
+                                  0000d50a         9   func ,g         0
+  __uart1_transmit
+                                  0000d514         6   func ,g         0
+  __uart2_transmit
+                                  0000d51a         6   func ,g         0
+  __timer_rd0
+                                  0000d520         6   func ,g         0
+  __timer_rd1
+                                  0000d526         6   func ,g         0
+  __timer_re
+                                  0000d52c         6   func ,g         0
+  __timer_rf
+                                  0000d532         6   func ,g         0
+
+FILE=intprg
+                                  0000d53e  0000d58a        4d
+  __brk
+                                  0000d53e         5   func ,g         0
+  __flash_memory_ready
+                                  0000d544         6   func ,g         0
+  __int4
+                                  0000d54a         6   func ,g         0
+  __input_key
+                                  0000d550         6   func ,g         0
+  __ad_converter
+                                  0000d556         6   func ,g         0
+  __rf_compare1
+                                  0000d55c         6   func ,g         0
+  __int2
+                                  0000d562         6   func ,g         0
+  __rf_compare0
+                                  0000d568         6   func ,g         0
+  __int0
+                                  0000d56e         6   func ,g         0
+  __uart2_bcnic
+                                  0000d574         6   func ,g         0
+  __rf_capture
+                                  0000d57a         6   func ,g         0
+  __comparator_a1
+                                  0000d580         6   func ,g         0
+
+FILE=Lib_I2C
+                                  0000d58c  0000da28       49d
+  _I2C_START
+                                  0000d58c        41   func ,g         0
+  _I2C_STOP
+                                  0000d5ce        42   func ,g         0
+  $I2C_WRITE
+                                  0000d610        7e   func ,g         0
+  _I2C_READ
+                                  0000d68e        59   func ,g         0
+  _I2C_ACK_DETECT
+                                  0000d6e6        3b   func ,g         0
+  _I2C_ACK
+                                  0000d722        34   func ,g         0
+  _I2C_NACK
+                                  0000d756        34   func ,g         0
+  $I2C_WriteRawData
+                                  0000d78a        4e   func ,g         0
+  $I2C_ReadRawData
+                                  0000d7d8        8e   func ,g         0
+  $EEPROM_WriteByte
+                                  0000d866        76   func ,g         0
+  $EEPROM_WriteBlcok
+                                  0000d8dc        3f   func ,g         0
+  $EEPROM_ReadBlock
+                                  0000d91a        58   func ,g         0
+  $SpecialVal_WriteByte
+                                  0000d972        23   func ,g         0
+  $SpecialVal_ReadByte
+                                  0000d996        39   func ,g         0
+  $SpecialVal_WriteBlock
+                                  0000d9ce        2f   func ,g         0
+
+FILE=Lib_ProtocolAnam
+                                  0000da2a  0000def1       4c8
+  _Anam_DataBitToByte
+                                  0000da2a        5a   func ,g         0
+  _Anam_DataByteToBit
+                                  0000da84        40   func ,g         0
+  $Anam_DongToAnamDong
+                                  0000dac4        24   func ,g         0
+  $Anam_HdIdToAnamID
+                                  0000dae8        6e   func ,g         0
+  $Anam_AnamIdToHdId
+                                  0000db56        79   func ,g         0
+  $Anam_TransmitProtocolHouse
+                                  0000dbd0        94   func ,g         0
+  $Anam_TransmitProtocolLobby
+                                  0000dc64        2b   func ,g         0
+  _Anam_ReceiveProtocolHouse
+                                  0000dc8e        a5   func ,g         0
+  _Anam_ReceiveProtocolLobby
+                                  0000dd34        3d   func ,g         0
+  _Anam_ReceiveProtocol
+                                  0000dd70        85   func ,g         0
+  _Anam_TransmitProtocol
+                                  0000ddf6        c9   func ,g         0
+  $Anam_TransmitData
+                                  0000debe        2a   func ,g         0
+  _Anam_TimerInterrutp100us
+                                  0000dee8         a   func ,g         0
+
+FILE=Lib_ProtocolKD
+                                  0000def2  0000f27d      138c
+  _Kd_Initialize
+                                  0000def2        3e   func ,g         0
+  $Kd_SetupChannel
+                                  0000df30        9d   func ,g         0
+  $Kd_ReceiveData
+                                  0000dfce       3ea   func ,g         0
+  $Kd_TransmitData
+                                  0000e3b8        31   func ,g         0
+  $Kd_TransmitDataRawData
+                                  0000e3e8       151   func ,g         0
+  $__Kd_Transmit485
+                                  0000e53a       14b   func ,g         0
+  _Kd_TimerInterrupt300us
+                                  0000e684        3e   func ,g         0
+  $Kd_ProtocolFormatConverter
+                                  0000e6c2       10c   func ,g         0
+  $Kd_ReceiveSuccess
+                                  0000e7ce        1b   func ,g         0
+  $Kd_IDError
+                                  0000e7ea         d   func ,g         0
+  $Kd_CheckSumError
+                                  0000e7f6         c   func ,g         0
+  $Kd_BufferFullError
+                                  0000e802         c   func ,g         0
+  $KDP_HdIdToKdID
+                                  0000e80e        4c   func ,g         0
+  $KDP_KdIdToHdId
+                                  0000e85a        40   func ,g         0
+  $KDP_ReceiveProtocol
+                                  0000e89a       4d2   func ,g         0
+  $KDP_TransmitProtocol
+                                  0000ed6c       40a   func ,g         0
+  _KDP_LobbySetupChannel
+                                  0000f176       108   func ,g         0
+
+FILE=main
+                                  0000f27e  0000f441       1c4
+  _FactoryTestMode
+                                  0000f27e        45   func ,g         0
+  $BootInfoOutput
+                                  0000f2c4        6f   func ,g         0
+  _main
+                                  0000f332       110   func ,g         0
+
+FILE=memcmp
+                                  0000f442  0000f499        58
+  _memcmp
+                                  0000f442        58   func ,g         0
+
+FILE=memcpy
+                                  0000f49a  0000f4ec        53
+  _memcpy
+                                  0000f49a        53   func ,g         0
+
+SECTION=interrupt
+FILE=initsct
+                                  0000f4ee  0000f60a       11d
+  _initsct
+                                  0000f4ee       11d   func ,g         0
+
+FILE=resetprg
+                                  0000f60c  0000f642        37
+  _start
+                                  0000f60c        32   func ,g         0
+  _exit
+                                  0000f63e         5   func ,g         0
+
+SECTION=rom_FE
+FILE=func_sound
+                                  00010000  0001049f       4a0
+  _FurElize
+                                  00010000       144   data ,g         0
+  _Cookoo
+                                  00010144        60   data ,g         0
+  _OngDalSaem
+                                  000101a4        ac   data ,g         0
+  _ThreeBear
+                                  00010250        c4   data ,g         0
+  _Tel
+                                  00010314        50   data ,g         0
+  _Siren
+                                  00010364        40   data ,g         0
+  _KyungDong
+                                  000103a4        fc   data ,g         0
+
+SECTION=rom_FO
+FILE=Lib_ProtocolAnam
+                                  000104a0  000104ae         f
+  _Anam_RxDataCntTable
+                                  000104a0         f   data ,g         0
+

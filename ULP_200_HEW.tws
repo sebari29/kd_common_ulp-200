@@ -1,0 +1,33 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"ULP_200_HEW" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\resetprg.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_etc.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_fnd.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_key.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_key.h" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_timeout.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_timer.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\interrupt_vector.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\Lib_ProtocolKD.c" 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\main.c" 
+[WORKSPACE_FILE_STATES]
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\resetprg.c" 50 50 418 465 0 1 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\Lib_ProtocolKD.c" 75 75 418 465 0 2 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_etc.c" 200 200 418 465 0 7 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_fnd.c" 25 25 418 465 0 9 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_key.c" 150 150 418 465 0 5 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_key.h" 0 0 418 465 0 8 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_timeout.c" 175 175 418 465 0 6 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\func_timer.c" -8 -30 932 703 1 4 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\interrupt_vector.c" 25 25 414 461 0 0 
+"D:\KD\SVN Project\SVN_Com\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\src\main.c" 100 100 418 465 0 3 
+[LOADED_PROJECTS]
+"ULP_200_HEW" 
+[END]

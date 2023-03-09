@@ -1,0 +1,5 @@
+-c
+-finfo
+-dir "D:\work\CommonPort\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\Debug"
+-R8CE
+"D:\work\CommonPort\ULP-200\a_Trunk\program\ULP_200\ULP_200\ULP_200_HEW\intprg.c"
